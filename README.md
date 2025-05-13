@@ -1,36 +1,39 @@
-<h1 align="center">Andrew Lewis | AnderLurse</h1>
+<h1 align="center">👋 Hi, I'm Andrew Lewis</h1>
 <p align="center">
-  🧠 AI Automation Engineer • 🔒 PCNSE Trainee • 🧰 Python + GPT Dev • 🚀 Founder @ Tech35
+  💻 Automation Expert • 🔐 Cybersecurity Enthusiast • 🚀 AI Builder
 </p>
 
 ---
 
-### ⚡ About Me
+### 🧠 About Me
 
-- 🔧 Building **fully autonomous AI-powered businesses**
-- 💼 Founder of [Tech35.pro](https://tech35.pro)
-- 🤖 Building tools with Python, GPT-4, Ollama, Selenium, and LangChain
-- 🎯 Working toward $100K/month in AI-powered income
-- 📚 Studying for PCNSE + launching freelance projects on Upwork
-
----
-
-### 🚀 Projects
-
-- 💼 [`leadbots`](https://github.com/AnderLurse/leadbots) — Real Estate Lead Gen SaaS (AI-enhanced)
-- 🤖 [`arc`](https://arc.tech35.pro) — AI Automation Command Center
-- 📊 Ongoing SaaS & agent-driven projects posted weekly
+- 👷 Building **Tech35** into a fully AI-sovereign automation company  
+- 📍 Based in Georgia, U.S. — field tech turned digital empire builder  
+- 🛠 Currently mastering **Python**, **LangChain**, **Ollama**, and **n8n**  
+- 📚 Studying for the **PCNSE**, then moving into **CISSP** and **DevOps** certs  
+- 💬 I work with: automation scripts, scraping bots, Upwork tooling, and SaaS MVPs  
+- 🎯 Ultimate Goal: **$100K/month in AI income** from SaaS, agents, and freelance
 
 ---
 
-### 🌐 Connect With Me
+### 💼 Freelance Services
 
-- 🔗 Website: [Tech35.pro](https://tech35.pro)
-- 📧 Email: andrew.lewis@tech35llc.com
-- 💼 Upwork: [[View Freelance Profile](#)](https://www.upwork.com/freelancers/~0153f37f90af7b4fd6?mp_source=share)
+- 🔧 Custom Web Scrapers (Zillow, Etsy, Spocket, etc.)  
+- 🤖 AI Agent Development (LangChain, Ollama, Whisper, ElevenLabs)  
+- ⚙️ Workflow Automation (n8n, Zapier, APIs)  
+- 🛒 eCommerce Automation (Spocket, WooCommerce, WordPress)
+
+> 💼 Upwork: [View Freelance Profile](https://www.upwork.com/freelancers/~yourprofileid)  
+> 🧾 GitHub Projects: [LeadBots, Agent Stack, Real Estate Scraper]  
+> 📫 Email: Andrew.Lewis@tech35llc.com  
 
 ---
 
-### ⚙️ Tech Stack
+### 🛠 Tech Stack
 
-`Python` • `LangChain` • `GPT-4` • `Ollama` • `Selenium` • `Linux` • `Docker` • `GitHub Actions`
+```yaml
+🧠 AI Tools: LangChain, Ollama, Whisper, ElevenLabs  
+🔧 Dev Tools: Python, Shell, GitHub Actions, Git Bash, VS Code  
+🌐 Web Stack: HTML, CSS, JS, WordPress, WooCommerce  
+🔁 Automation: n8n, Zapier, APIs, Cron jobs  
+📦 Infrastructure: Hetzner, VPS, NGINX, Docker

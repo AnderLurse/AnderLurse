@@ -23,7 +23,7 @@
 - ⚙️ Workflow Automation (n8n, Zapier, APIs)  
 - 🛒 eCommerce Automation (Spocket, WooCommerce, WordPress)
 
-> 💼 Upwork: [View Freelance Profile](https://www.upwork.com/freelancers/~yourprofileid)  
+> 💼 Upwork: https://www.upwork.com/freelancers/~0153f37f90af7b4fd6?companyReference=1920594033840063688&mp_source=share
 > 🧾 GitHub Projects: [LeadBots, Agent Stack, Real Estate Scraper]  
 > 📫 Email: Andrew.Lewis@tech35llc.com  
 
